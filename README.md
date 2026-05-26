@@ -32,11 +32,11 @@ Passionate about securing cloud infrastructure, building secure pipelines, and b
 
 ## 🏆 Certifications & Achievements:
 
-### 🔐 TryHackMe
+###  TryHackMe
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/skylet1998.png)](https://tryhackme.com/p/skylet1998)
 
 ### 🌐 Cisco NetAcad
-https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png
+[![Cisco NetEssentials](https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](https://www.credly.com/badges/5c1baa0c-64a7-499d-b953-684479d0022e)
 <!-- Replace this with your Credly badge once you get the image URL from netacad.com -->
 
 ---
