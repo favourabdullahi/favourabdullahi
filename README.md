@@ -1,6 +1,6 @@
-# Hi there, I'm Favour 👋
+# Hi there, I'm Favour 
 
-☁️ Cloud Security Engineer · 🔐 DevSecOps Practitioner · 🛡️ Cybersecurity Enthusiast  
+ Cloud Security Engineer ·  DevSecOps Practitioner ·  Cybersecurity Enthusiast  
 Passionate about securing cloud infrastructure, building secure pipelines, and breaking things (ethically).
 
 ---
